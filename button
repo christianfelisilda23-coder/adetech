@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<body>
+
+    <button onclick="showAlert()">Click Me!</button>
+
+    <script>
+        // The Function that triggers the alert
+        function showAlert() {
+            alert("Hello from GitHub!");
+        }
+    </script>
+
+</body>
+</html>
